@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+
+
+urunler.csv
+satislar.csv
+
+
+venv/
+.venv/
+build/
+dist/
+*.exe
