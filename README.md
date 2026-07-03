@@ -1,4 +1,4 @@
-🛒 Market Stok Takip Otomasyonu
+## 🛒 Market Stok Takip Otomasyonu
 
 Bu proje, bir marketin ürün stoklarını yönetmek, satış işlemlerini gerçekleştirmek ve detaylı finansal raporlar almak amacıyla geliştirilmiş **modern arayüzlü (Dark Mode) bir masaüstü Enterprise Resource Planning (ERP) yazılımı simülasyonudur.** Python'ın dahili `tkinter` ve `ttk` kütüphaneleri kullanılarak geliştirilmiş olup, herhangi bir harici kütüphane bağımlılığı (veritabanı veya UI kütüphanesi) gerektirmeden doğrudan çalıştırılabilir.
 
