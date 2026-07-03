@@ -11,3 +11,6 @@ venv/
 build/
 dist/
 *.exe
+
+*.py linguist-language=Python
+*.csv linguist-detectable=false
