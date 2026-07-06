@@ -1,2 +1,4 @@
+* linguist-vendored=true
+
+*.py linguist-vendored=false
 *.py linguist-language=Python
-*.csv linguist-detectable=false
